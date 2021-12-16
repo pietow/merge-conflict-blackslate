@@ -7,4 +7,4 @@
 * bullet
 * points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There <span style="color:blue">is a bug</span> in this file</p>
