@@ -7,4 +7,6 @@
 * bullet
 * points
 
-<p> There <span style="color:yellow">is a bug</span> in this file</p>
+<p> There is no bug in this file</p>
+
+<p> random changes happen </p> 
